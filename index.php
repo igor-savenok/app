@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1><font color= green>Congratulations Igor!</h1>
+        <h1><font color= black>Congratulations Igor!</h1>
    </section>
 
     <section class="instructions">
