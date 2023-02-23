@@ -22,13 +22,8 @@ else
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-    <section class="congratulations">
-<<<<<<< HEAD
         <h1><font color= black>Andrii, very funny! Ahahah </h1>
-=======
-        <h1><font color= blue>Congratulations Igor!</h1>
->>>>>>> b7480f83824491b8e315f2c558e0fb067cec7aa7
-   </section>
+
 </body>
 </html>
 <? 
